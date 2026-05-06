@@ -1,0 +1,7 @@
+Baby nappy pack; 0.8
+Baby formula; 0.5
+Wet wipes; 0.4
+Baby blanket; 0.6
+Spare baby clothes; 0.4
+Pacifier and bottle set; 0.3
+Electric blanket; 1.5

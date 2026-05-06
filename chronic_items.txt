@@ -1,0 +1,5 @@
+Chronic disease medication; 0.7
+Prescription photocopy; 0.1
+Doctor contact card; 0.05
+Additional medical device; 0.8
+Spare battery/charger; 0.3

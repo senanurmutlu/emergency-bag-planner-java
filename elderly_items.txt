@@ -1,0 +1,5 @@
+Medicine kit; 0.6
+Spare glasses; 0.2
+Walking stick (foldable); 0.7
+Blood pressure monitor; 0.5
+Case for reading glasses; 0.1

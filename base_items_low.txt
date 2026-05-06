@@ -1,0 +1,7 @@
+Water 1.5L;1.5
+Tinned food;0.5
+Tinned food;0.5
+Torch;0.3
+Powerbank;0.4
+First aid kit;0.8
+Thermal blanket;1.0

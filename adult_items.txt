@@ -1,0 +1,8 @@
+Flashlight;0.3
+Powerbank;0.4
+Extra batteries;0.2
+Whistle;0.1
+Dust mask pack;0.2
+Work gloves;0.3
+Notebook and pen;
+
